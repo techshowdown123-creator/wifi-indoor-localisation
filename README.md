@@ -11,4 +11,4 @@ python -m venv .venv
 .venv\Scripts\python -m pip install -r requirements.txt      # macOS/Linux: .venv/bin/python
 .venv\Scripts\python -m jupyter notebook P6_WiFi_Localisation.ipynb   # Kernel → Restart & Run All
 ```
-*Work in progress — results are added as the sections are completed.*
+

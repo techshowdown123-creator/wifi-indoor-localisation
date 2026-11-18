@@ -1,3 +1,5 @@
+**Philem Arjun**
+
 ## 1. Introduction and Data
 
 This project uses Wi-Fi signal strength (RSSI) to identify indoor rooms, where GPS is unreliable. The UCI dataset contains 2,000 readings from 7 access points across 4 balanced rooms, with no missing or duplicate values. It was split into 80% training (1,600) and 20% testing (400) using stratified sampling (seed 42).
@@ -18,6 +20,6 @@ K-Means was used to group readings without room labels.
 | **K = 4 (chosen)** | 0.294 ± 0.001 | **0.820 ± 0.036** |
 | K = 4 (raw dBm) | – | 0.881 ± 0.026 |
 
-K = 2 had a higher silhouette score, but K = 4 was chosen at the elbow of the inertia curve, where the silhouette score is still clearly positive. The room labels were only used afterwards to evaluate the clusters, and K = 4 matches the rooms much better (ARI 0.820 vs 0.295). Raw dBm values gave better clustering than scaled values.
+K = 2 had a higher silhouette score, but K = 4 was chosen because there are four actual rooms and its ARI was much higher. Raw dBm values gave better clustering than scaled values.
 
 **Figure:** `kmeans_elbow_silhouette_ari.png`

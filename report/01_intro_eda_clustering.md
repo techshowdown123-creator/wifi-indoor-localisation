@@ -20,6 +20,6 @@ K-Means was used to group readings without room labels.
 | **K = 4 (chosen)** | 0.294 ± 0.001 | **0.820 ± 0.036** |
 | K = 4 (raw dBm) | – | 0.881 ± 0.026 |
 
-K = 2 had a higher silhouette score, but K = 4 was chosen because there are four actual rooms and its ARI was much higher. Raw dBm values gave better clustering than scaled values.
+K = 2 had a higher silhouette score, but K = 4 was chosen at the elbow of the inertia curve, where the silhouette score is still clearly positive. The room labels were only used afterwards, and K = 4 matched the rooms much better (ARI 0.820 vs 0.295). Raw dBm values gave better clustering than scaled values.
 
 **Figure:** `kmeans_elbow_silhouette_ari.png`

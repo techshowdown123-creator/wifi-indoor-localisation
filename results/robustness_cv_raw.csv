@@ -1,0 +1,721 @@
+model,fold,scenario,ap,f1
+Dummy (stratified),0,clean,,0.2714414832375862
+Dummy (stratified),0,noise 2 dBm,,0.2714414832375862
+Dummy (stratified),0,noise 5 dBm,,0.2714414832375862
+Dummy (stratified),0,missing (imputed),AP1,0.2714414832375862
+Dummy (stratified),0,-100 dBm,AP1,0.2714414832375862
+Dummy (stratified),0,retrained without,AP1,0.2714414832375862
+Dummy (stratified),0,missing (imputed),AP2,0.2714414832375862
+Dummy (stratified),0,-100 dBm,AP2,0.2714414832375862
+Dummy (stratified),0,retrained without,AP2,0.2714414832375862
+Dummy (stratified),0,missing (imputed),AP3,0.2714414832375862
+Dummy (stratified),0,-100 dBm,AP3,0.2714414832375862
+Dummy (stratified),0,retrained without,AP3,0.2714414832375862
+Dummy (stratified),0,missing (imputed),AP4,0.2714414832375862
+Dummy (stratified),0,-100 dBm,AP4,0.2714414832375862
+Dummy (stratified),0,retrained without,AP4,0.2714414832375862
+Dummy (stratified),0,missing (imputed),AP5,0.2714414832375862
+Dummy (stratified),0,-100 dBm,AP5,0.2714414832375862
+Dummy (stratified),0,retrained without,AP5,0.2714414832375862
+Dummy (stratified),0,missing (imputed),AP6,0.2714414832375862
+Dummy (stratified),0,-100 dBm,AP6,0.2714414832375862
+Dummy (stratified),0,retrained without,AP6,0.2714414832375862
+Dummy (stratified),0,missing (imputed),AP7,0.2714414832375862
+Dummy (stratified),0,-100 dBm,AP7,0.2714414832375862
+Dummy (stratified),0,retrained without,AP7,0.2714414832375862
+Dummy (stratified),1,clean,,0.2680552780811498
+Dummy (stratified),1,noise 2 dBm,,0.2680552780811498
+Dummy (stratified),1,noise 5 dBm,,0.2680552780811498
+Dummy (stratified),1,missing (imputed),AP1,0.2680552780811498
+Dummy (stratified),1,-100 dBm,AP1,0.2680552780811498
+Dummy (stratified),1,retrained without,AP1,0.2680552780811498
+Dummy (stratified),1,missing (imputed),AP2,0.2680552780811498
+Dummy (stratified),1,-100 dBm,AP2,0.2680552780811498
+Dummy (stratified),1,retrained without,AP2,0.2680552780811498
+Dummy (stratified),1,missing (imputed),AP3,0.2680552780811498
+Dummy (stratified),1,-100 dBm,AP3,0.2680552780811498
+Dummy (stratified),1,retrained without,AP3,0.2680552780811498
+Dummy (stratified),1,missing (imputed),AP4,0.2680552780811498
+Dummy (stratified),1,-100 dBm,AP4,0.2680552780811498
+Dummy (stratified),1,retrained without,AP4,0.2680552780811498
+Dummy (stratified),1,missing (imputed),AP5,0.2680552780811498
+Dummy (stratified),1,-100 dBm,AP5,0.2680552780811498
+Dummy (stratified),1,retrained without,AP5,0.2680552780811498
+Dummy (stratified),1,missing (imputed),AP6,0.2680552780811498
+Dummy (stratified),1,-100 dBm,AP6,0.2680552780811498
+Dummy (stratified),1,retrained without,AP6,0.2680552780811498
+Dummy (stratified),1,missing (imputed),AP7,0.2680552780811498
+Dummy (stratified),1,-100 dBm,AP7,0.2680552780811498
+Dummy (stratified),1,retrained without,AP7,0.2680552780811498
+Dummy (stratified),2,clean,,0.2619541338506936
+Dummy (stratified),2,noise 2 dBm,,0.2619541338506936
+Dummy (stratified),2,noise 5 dBm,,0.2619541338506936
+Dummy (stratified),2,missing (imputed),AP1,0.2619541338506936
+Dummy (stratified),2,-100 dBm,AP1,0.2619541338506936
+Dummy (stratified),2,retrained without,AP1,0.2619541338506936
+Dummy (stratified),2,missing (imputed),AP2,0.2619541338506936
+Dummy (stratified),2,-100 dBm,AP2,0.2619541338506936
+Dummy (stratified),2,retrained without,AP2,0.2619541338506936
+Dummy (stratified),2,missing (imputed),AP3,0.2619541338506936
+Dummy (stratified),2,-100 dBm,AP3,0.2619541338506936
+Dummy (stratified),2,retrained without,AP3,0.2619541338506936
+Dummy (stratified),2,missing (imputed),AP4,0.2619541338506936
+Dummy (stratified),2,-100 dBm,AP4,0.2619541338506936
+Dummy (stratified),2,retrained without,AP4,0.2619541338506936
+Dummy (stratified),2,missing (imputed),AP5,0.2619541338506936
+Dummy (stratified),2,-100 dBm,AP5,0.2619541338506936
+Dummy (stratified),2,retrained without,AP5,0.2619541338506936
+Dummy (stratified),2,missing (imputed),AP6,0.2619541338506936
+Dummy (stratified),2,-100 dBm,AP6,0.2619541338506936
+Dummy (stratified),2,retrained without,AP6,0.2619541338506936
+Dummy (stratified),2,missing (imputed),AP7,0.2619541338506936
+Dummy (stratified),2,-100 dBm,AP7,0.2619541338506936
+Dummy (stratified),2,retrained without,AP7,0.2619541338506936
+Dummy (stratified),3,clean,,0.23332345524448822
+Dummy (stratified),3,noise 2 dBm,,0.23332345524448822
+Dummy (stratified),3,noise 5 dBm,,0.23332345524448822
+Dummy (stratified),3,missing (imputed),AP1,0.23332345524448822
+Dummy (stratified),3,-100 dBm,AP1,0.23332345524448822
+Dummy (stratified),3,retrained without,AP1,0.23332345524448822
+Dummy (stratified),3,missing (imputed),AP2,0.23332345524448822
+Dummy (stratified),3,-100 dBm,AP2,0.23332345524448822
+Dummy (stratified),3,retrained without,AP2,0.23332345524448822
+Dummy (stratified),3,missing (imputed),AP3,0.23332345524448822
+Dummy (stratified),3,-100 dBm,AP3,0.23332345524448822
+Dummy (stratified),3,retrained without,AP3,0.23332345524448822
+Dummy (stratified),3,missing (imputed),AP4,0.23332345524448822
+Dummy (stratified),3,-100 dBm,AP4,0.23332345524448822
+Dummy (stratified),3,retrained without,AP4,0.23332345524448822
+Dummy (stratified),3,missing (imputed),AP5,0.23332345524448822
+Dummy (stratified),3,-100 dBm,AP5,0.23332345524448822
+Dummy (stratified),3,retrained without,AP5,0.23332345524448822
+Dummy (stratified),3,missing (imputed),AP6,0.23332345524448822
+Dummy (stratified),3,-100 dBm,AP6,0.23332345524448822
+Dummy (stratified),3,retrained without,AP6,0.23332345524448822
+Dummy (stratified),3,missing (imputed),AP7,0.23332345524448822
+Dummy (stratified),3,-100 dBm,AP7,0.23332345524448822
+Dummy (stratified),3,retrained without,AP7,0.23332345524448822
+Dummy (stratified),4,clean,,0.22456488313517964
+Dummy (stratified),4,noise 2 dBm,,0.22456488313517964
+Dummy (stratified),4,noise 5 dBm,,0.22456488313517964
+Dummy (stratified),4,missing (imputed),AP1,0.22456488313517964
+Dummy (stratified),4,-100 dBm,AP1,0.22456488313517964
+Dummy (stratified),4,retrained without,AP1,0.22456488313517964
+Dummy (stratified),4,missing (imputed),AP2,0.22456488313517964
+Dummy (stratified),4,-100 dBm,AP2,0.22456488313517964
+Dummy (stratified),4,retrained without,AP2,0.22456488313517964
+Dummy (stratified),4,missing (imputed),AP3,0.22456488313517964
+Dummy (stratified),4,-100 dBm,AP3,0.22456488313517964
+Dummy (stratified),4,retrained without,AP3,0.22456488313517964
+Dummy (stratified),4,missing (imputed),AP4,0.22456488313517964
+Dummy (stratified),4,-100 dBm,AP4,0.22456488313517964
+Dummy (stratified),4,retrained without,AP4,0.22456488313517964
+Dummy (stratified),4,missing (imputed),AP5,0.22456488313517964
+Dummy (stratified),4,-100 dBm,AP5,0.22456488313517964
+Dummy (stratified),4,retrained without,AP5,0.22456488313517964
+Dummy (stratified),4,missing (imputed),AP6,0.22456488313517964
+Dummy (stratified),4,-100 dBm,AP6,0.22456488313517964
+Dummy (stratified),4,retrained without,AP6,0.22456488313517964
+Dummy (stratified),4,missing (imputed),AP7,0.22456488313517964
+Dummy (stratified),4,-100 dBm,AP7,0.22456488313517964
+Dummy (stratified),4,retrained without,AP7,0.22456488313517964
+Logistic Regression,0,clean,,0.9906618890000846
+Logistic Regression,0,noise 2 dBm,,0.9525356243161273
+Logistic Regression,0,noise 5 dBm,,0.8683592457577958
+Logistic Regression,0,missing (imputed),AP1,0.8210258160016641
+Logistic Regression,0,-100 dBm,AP1,0.2926760563380282
+Logistic Regression,0,retrained without,AP1,0.9649908152069434
+Logistic Regression,0,missing (imputed),AP2,0.9875371377860093
+Logistic Regression,0,-100 dBm,AP2,0.8273431373170856
+Logistic Regression,0,retrained without,AP2,0.9875371377860093
+Logistic Regression,0,missing (imputed),AP3,0.984393921637564
+Logistic Regression,0,-100 dBm,AP3,0.3470926843485864
+Logistic Regression,0,retrained without,AP3,0.9906052238368687
+Logistic Regression,0,missing (imputed),AP4,0.9497395242222268
+Logistic Regression,0,-100 dBm,AP4,0.4101654846335697
+Logistic Regression,0,retrained without,AP4,0.984311314021459
+Logistic Regression,0,missing (imputed),AP5,0.7447210652691467
+Logistic Regression,0,-100 dBm,AP5,0.3344504957408183
+Logistic Regression,0,retrained without,AP5,0.9594990776829737
+Logistic Regression,0,missing (imputed),AP6,0.9781223320380592
+Logistic Regression,0,-100 dBm,AP6,0.9358235426161956
+Logistic Regression,0,retrained without,AP6,0.9843349638947123
+Logistic Regression,0,missing (imputed),AP7,0.9906052238368687
+Logistic Regression,0,-100 dBm,AP7,0.9102181047307556
+Logistic Regression,0,retrained without,AP7,0.9842934117142554
+Logistic Regression,1,clean,,0.9750510435263794
+Logistic Regression,1,noise 2 dBm,,0.9561869228471807
+Logistic Regression,1,noise 5 dBm,,0.8689420759886446
+Logistic Regression,1,missing (imputed),AP1,0.8214146759374499
+Logistic Regression,1,-100 dBm,AP1,0.3647299315983961
+Logistic Regression,1,retrained without,AP1,0.9629604808469336
+Logistic Regression,1,missing (imputed),AP2,0.9750510435263794
+Logistic Regression,1,-100 dBm,AP2,0.6359888588124432
+Logistic Regression,1,retrained without,AP2,0.9750510435263794
+Logistic Regression,1,missing (imputed),AP3,0.9781606501015783
+Logistic Regression,1,-100 dBm,AP3,0.4015140196224912
+Logistic Regression,1,retrained without,AP3,0.9750510435263794
+Logistic Regression,1,missing (imputed),AP4,0.9375631219749387
+Logistic Regression,1,-100 dBm,AP4,0.3868184955141477
+Logistic Regression,1,retrained without,AP4,0.9781046179827626
+Logistic Regression,1,missing (imputed),AP5,0.6328627197745752
+Logistic Regression,1,-100 dBm,AP5,0.3443742655699178
+Logistic Regression,1,retrained without,AP5,0.9499122028403828
+Logistic Regression,1,missing (imputed),AP6,0.9719267535922735
+Logistic Regression,1,-100 dBm,AP6,0.9570799830390273
+Logistic Regression,1,retrained without,AP6,0.9687653898785306
+Logistic Regression,1,missing (imputed),AP7,0.9750877633148348
+Logistic Regression,1,-100 dBm,AP7,0.9346398143169341
+Logistic Regression,1,retrained without,AP7,0.9656029267359335
+Logistic Regression,2,clean,,0.9874980465697765
+Logistic Regression,2,noise 2 dBm,,0.971875
+Logistic Regression,2,noise 5 dBm,,0.8911283507873862
+Logistic Regression,2,missing (imputed),AP1,0.8808082977551761
+Logistic Regression,2,-100 dBm,AP1,0.3295322686132619
+Logistic Regression,2,retrained without,AP1,0.9658133339975765
+Logistic Regression,2,missing (imputed),AP2,0.9874980465697765
+Logistic Regression,2,-100 dBm,AP2,0.7670630083513342
+Logistic Regression,2,retrained without,AP2,0.9874980465697765
+Logistic Regression,2,missing (imputed),AP3,0.98125
+Logistic Regression,2,-100 dBm,AP3,0.3410059676044331
+Logistic Regression,2,retrained without,AP3,0.9781241454744326
+Logistic Regression,2,missing (imputed),AP4,0.9658071089861661
+Logistic Regression,2,-100 dBm,AP4,0.4126049200864882
+Logistic Regression,2,retrained without,AP4,0.9813184021263289
+Logistic Regression,2,missing (imputed),AP5,0.6944840519691808
+Logistic Regression,2,-100 dBm,AP5,0.3337041156840934
+Logistic Regression,2,retrained without,AP5,0.9407369515485388
+Logistic Regression,2,missing (imputed),AP6,0.9906217029424407
+Logistic Regression,2,-100 dBm,AP6,0.9095399811271065
+Logistic Regression,2,retrained without,AP6,0.9874980465697765
+Logistic Regression,2,missing (imputed),AP7,0.9906217029424407
+Logistic Regression,2,-100 dBm,AP7,0.9228143751901577
+Logistic Regression,2,retrained without,AP7,0.9843743896245947
+Logistic Regression,3,clean,,0.9720254727482035
+Logistic Regression,3,noise 2 dBm,,0.9596446818247907
+Logistic Regression,3,noise 5 dBm,,0.8663662789004293
+Logistic Regression,3,missing (imputed),AP1,0.850662277484663
+Logistic Regression,3,-100 dBm,AP1,0.3319327731092437
+Logistic Regression,3,retrained without,AP1,0.9565004076403447
+Logistic Regression,3,missing (imputed),AP2,0.9627199753010188
+Logistic Regression,3,-100 dBm,AP2,0.7179149537019384
+Logistic Regression,3,retrained without,AP2,0.9658919503497778
+Logistic Regression,3,missing (imputed),AP3,0.9719657641262784
+Logistic Regression,3,-100 dBm,AP3,0.35042251464656604
+Logistic Regression,3,retrained without,AP3,0.9688525603258676
+Logistic Regression,3,missing (imputed),AP4,0.9381077931000494
+Logistic Regression,3,-100 dBm,AP4,0.37994782408853744
+Logistic Regression,3,retrained without,AP4,0.9567689995403078
+Logistic Regression,3,missing (imputed),AP5,0.6538022094408952
+Logistic Regression,3,-100 dBm,AP5,0.341036686840548
+Logistic Regression,3,retrained without,AP5,0.9440032422684368
+Logistic Regression,3,missing (imputed),AP6,0.975075704635453
+Logistic Regression,3,-100 dBm,AP6,0.8795109975247303
+Logistic Regression,3,retrained without,AP6,0.9689232471465177
+Logistic Regression,3,missing (imputed),AP7,0.9627375128557072
+Logistic Regression,3,-100 dBm,AP7,0.9146062512872866
+Logistic Regression,3,retrained without,AP7,0.9690129242467491
+Logistic Regression,4,clean,,0.9906051017617876
+Logistic Regression,4,noise 2 dBm,,0.9843345930337066
+Logistic Regression,4,noise 5 dBm,,0.8771103583536705
+Logistic Regression,4,missing (imputed),AP1,0.8628873646489348
+Logistic Regression,4,-100 dBm,AP1,0.3694083694083694
+Logistic Regression,4,retrained without,AP1,0.9684453369494381
+Logistic Regression,4,missing (imputed),AP2,0.9906051017617876
+Logistic Regression,4,-100 dBm,AP2,0.541618671236427
+Logistic Regression,4,retrained without,AP2,0.9906051017617876
+Logistic Regression,4,missing (imputed),AP3,0.9906051017617876
+Logistic Regression,4,-100 dBm,AP3,0.3416070131756407
+Logistic Regression,4,retrained without,AP3,0.9874402960138375
+Logistic Regression,4,missing (imputed),AP4,0.9472755770821206
+Logistic Regression,4,-100 dBm,AP4,0.40193156707432404
+Logistic Regression,4,retrained without,AP4,0.9874802238368686
+Logistic Regression,4,missing (imputed),AP5,0.7699274706910071
+Logistic Regression,4,-100 dBm,AP5,0.33544303797468356
+Logistic Regression,4,retrained without,AP5,0.9563710300550449
+Logistic Regression,4,missing (imputed),AP6,0.9874990232848883
+Logistic Regression,4,-100 dBm,AP6,0.9328783600346942
+Logistic Regression,4,retrained without,AP6,0.9906051017617876
+Logistic Regression,4,missing (imputed),AP7,0.9843533647189144
+Logistic Regression,4,-100 dBm,AP7,0.9339900954086654
+Logistic Regression,4,retrained without,AP7,0.9906051017617876
+KNN,0,clean,,0.9937490232848882
+KNN,0,noise 2 dBm,,0.9717065599786343
+KNN,0,noise 5 dBm,,0.8530834979843815
+KNN,0,missing (imputed),AP1,0.9529384944213376
+KNN,0,-100 dBm,AP1,0.8884065896845389
+KNN,0,retrained without,AP1,0.9589297477884435
+KNN,0,missing (imputed),AP2,0.9780031082763474
+KNN,0,-100 dBm,AP2,0.9906618890000846
+KNN,0,retrained without,AP2,0.9905837151521635
+KNN,0,missing (imputed),AP3,0.9717563475425111
+KNN,0,-100 dBm,AP3,0.8865723906008637
+KNN,0,retrained without,AP3,0.984368236902246
+KNN,0,missing (imputed),AP4,0.952746251153114
+KNN,0,-100 dBm,AP4,0.8730060358509639
+KNN,0,retrained without,AP4,0.9874402960138375
+KNN,0,missing (imputed),AP5,0.8832645597989037
+KNN,0,-100 dBm,AP5,0.6673371806229167
+KNN,0,retrained without,AP5,0.9657190295954416
+KNN,0,missing (imputed),AP6,0.968695444546216
+KNN,0,-100 dBm,AP6,0.9342332858373789
+KNN,0,retrained without,AP6,0.9874802238368686
+KNN,0,missing (imputed),AP7,0.9780956240345411
+KNN,0,-100 dBm,AP7,0.927479182015047
+KNN,0,retrained without,AP7,0.9874597059517257
+KNN,1,clean,,0.98441162681669
+KNN,1,noise 2 dBm,,0.9626298774037427
+KNN,1,noise 5 dBm,,0.8851917748053386
+KNN,1,missing (imputed),AP1,0.9535441213221512
+KNN,1,-100 dBm,AP1,0.8807679146133177
+KNN,1,retrained without,AP1,0.9628893040786537
+KNN,1,missing (imputed),AP2,0.9813032415647522
+KNN,1,-100 dBm,AP2,0.9417800817326134
+KNN,1,retrained without,AP2,0.9689617237664059
+KNN,1,missing (imputed),AP3,0.9624741845728272
+KNN,1,-100 dBm,AP3,0.8745382251370275
+KNN,1,retrained without,AP3,0.9750233584516628
+KNN,1,missing (imputed),AP4,0.9473234422864516
+KNN,1,-100 dBm,AP4,0.8901906970480373
+KNN,1,retrained without,AP4,0.9719126035318018
+KNN,1,missing (imputed),AP5,0.8569956646986681
+KNN,1,-100 dBm,AP5,0.7019854189665511
+KNN,1,retrained without,AP5,0.9466885788207509
+KNN,1,missing (imputed),AP6,0.962609255439004
+KNN,1,-100 dBm,AP6,0.9595584221275052
+KNN,1,retrained without,AP6,0.9719267535922735
+KNN,1,missing (imputed),AP7,0.9688575926674863
+KNN,1,-100 dBm,AP7,0.9286979725420136
+KNN,1,retrained without,AP7,0.9751493371490891
+KNN,2,clean,,0.9874980465697765
+KNN,2,noise 2 dBm,,0.9656413531961727
+KNN,2,noise 5 dBm,,0.8794346033751606
+KNN,2,missing (imputed),AP1,0.9410817604530426
+KNN,2,-100 dBm,AP1,0.8866431070179196
+KNN,2,retrained without,AP1,0.9627597810489688
+KNN,2,missing (imputed),AP2,0.9812105697488184
+KNN,2,-100 dBm,AP2,0.945238754687886
+KNN,2,retrained without,AP2,0.9844416589699609
+KNN,2,missing (imputed),AP3,0.9812470698546648
+KNN,2,-100 dBm,AP3,0.8703618937596099
+KNN,2,retrained without,AP3,0.974958968865477
+KNN,2,missing (imputed),AP4,0.9408303236714335
+KNN,2,-100 dBm,AP4,0.8927935415227998
+KNN,2,retrained without,AP4,0.9627104752960145
+KNN,2,missing (imputed),AP5,0.8241753550000973
+KNN,2,-100 dBm,AP5,0.6839680787049208
+KNN,2,retrained without,AP5,0.9312680671119965
+KNN,2,missing (imputed),AP6,0.965532770679628
+KNN,2,-100 dBm,AP6,0.9562478626971894
+KNN,2,retrained without,AP6,0.9750860541894688
+KNN,2,missing (imputed),AP7,0.9687223852562972
+KNN,2,-100 dBm,AP7,0.9315388627431505
+KNN,2,retrained without,AP7,0.9750891576042453
+KNN,3,clean,,0.9843729244946955
+KNN,3,noise 2 dBm,,0.9627398781749938
+KNN,3,noise 5 dBm,,0.8680192627003374
+KNN,3,missing (imputed),AP1,0.9342571171719041
+KNN,3,-100 dBm,AP1,0.8718240031923868
+KNN,3,retrained without,AP1,0.9687436093882253
+KNN,3,missing (imputed),AP2,0.9719525176764717
+KNN,3,-100 dBm,AP2,0.9449073108677319
+KNN,3,retrained without,AP2,0.9812382739212008
+KNN,3,missing (imputed),AP3,0.9781185281889561
+KNN,3,-100 dBm,AP3,0.850271890177329
+KNN,3,retrained without,AP3,0.9687420402164773
+KNN,3,missing (imputed),AP4,0.9215124270520505
+KNN,3,-100 dBm,AP4,0.8597315726058034
+KNN,3,retrained without,AP4,0.9628176410608353
+KNN,3,missing (imputed),AP5,0.8258574807806032
+KNN,3,-100 dBm,AP5,0.6466477766132993
+KNN,3,retrained without,AP5,0.9469577112661911
+KNN,3,missing (imputed),AP6,0.9531217302607037
+KNN,3,-100 dBm,AP6,0.9439263022682411
+KNN,3,retrained without,AP6,0.9626134483154773
+KNN,3,missing (imputed),AP7,0.9592566298739754
+KNN,3,-100 dBm,AP7,0.9281280652523414
+KNN,3,retrained without,AP7,0.9656855847404628
+KNN,4,clean,,0.987497295399077
+KNN,4,noise 2 dBm,,0.9812248942683726
+KNN,4,noise 5 dBm,,0.8497424215789678
+KNN,4,missing (imputed),AP1,0.9217420630150526
+KNN,4,-100 dBm,AP1,0.866044150740598
+KNN,4,retrained without,AP1,0.9688408746379762
+KNN,4,missing (imputed),AP2,0.9812087151521633
+KNN,4,-100 dBm,AP2,0.9689485225807731
+KNN,4,retrained without,AP2,0.984368236902246
+KNN,4,missing (imputed),AP3,0.9781217029424407
+KNN,4,-100 dBm,AP3,0.8915856788253609
+KNN,4,retrained without,AP3,0.9874798529758629
+KNN,4,missing (imputed),AP4,0.9467270946736874
+KNN,4,-100 dBm,AP4,0.8791526077675864
+KNN,4,retrained without,AP4,0.9813182800512479
+KNN,4,missing (imputed),AP5,0.8828352178771091
+KNN,4,-100 dBm,AP5,0.6925562043567783
+KNN,4,retrained without,AP5,0.9563700052833084
+KNN,4,missing (imputed),AP6,0.9686762742371907
+KNN,4,-100 dBm,AP6,0.9436085042617297
+KNN,4,retrained without,AP6,0.9843533647189144
+KNN,4,missing (imputed),AP7,0.9781008846226238
+KNN,4,-100 dBm,AP7,0.9242475146299034
+KNN,4,retrained without,AP7,0.9906217029424407
+SVM (RBF),0,clean,,0.9937490232848882
+SVM (RBF),0,noise 2 dBm,,0.9687490232848883
+SVM (RBF),0,noise 5 dBm,,0.8621298772034066
+SVM (RBF),0,missing (imputed),AP1,0.9181313351282863
+SVM (RBF),0,-100 dBm,AP1,0.42941683767317274
+SVM (RBF),0,retrained without,AP1,0.9652344772738168
+SVM (RBF),0,missing (imputed),AP2,0.9905837151521635
+SVM (RBF),0,-100 dBm,AP2,0.1
+SVM (RBF),0,retrained without,AP2,0.9906242720708129
+SVM (RBF),0,missing (imputed),AP3,0.984354115889614
+SVM (RBF),0,-100 dBm,AP3,0.1
+SVM (RBF),0,retrained without,AP3,0.9843349638947123
+SVM (RBF),0,missing (imputed),AP4,0.9562557704453464
+SVM (RBF),0,-100 dBm,AP4,0.5065049020204038
+SVM (RBF),0,retrained without,AP4,0.9906052238368687
+SVM (RBF),0,missing (imputed),AP5,0.7392443499205659
+SVM (RBF),0,-100 dBm,AP5,0.3385549872122762
+SVM (RBF),0,retrained without,AP5,0.9688535396022476
+SVM (RBF),0,missing (imputed),AP6,0.9781128677988629
+SVM (RBF),0,-100 dBm,AP6,0.990624262913751
+SVM (RBF),0,retrained without,AP6,0.9843725350279398
+SVM (RBF),0,missing (imputed),AP7,0.987497295399077
+SVM (RBF),0,-100 dBm,AP7,0.9628414588293444
+SVM (RBF),0,retrained without,AP7,0.993749877924919
+SVM (RBF),1,clean,,0.9781606501015783
+SVM (RBF),1,noise 2 dBm,,0.9718730465697765
+SVM (RBF),1,noise 5 dBm,,0.9029785893876583
+SVM (RBF),1,missing (imputed),AP1,0.9315146561843108
+SVM (RBF),1,-100 dBm,AP1,0.5476382940218375
+SVM (RBF),1,retrained without,AP1,0.9690269748218903
+SVM (RBF),1,missing (imputed),AP2,0.9812680669975333
+SVM (RBF),1,-100 dBm,AP2,0.1
+SVM (RBF),1,retrained without,AP2,0.9781924254112172
+SVM (RBF),1,missing (imputed),AP3,0.9813032415647522
+SVM (RBF),1,-100 dBm,AP3,0.1
+SVM (RBF),1,retrained without,AP3,0.9781924254112172
+SVM (RBF),1,missing (imputed),AP4,0.9563367801466738
+SVM (RBF),1,-100 dBm,AP4,0.5609920341627659
+SVM (RBF),1,retrained without,AP4,0.9718526779500087
+SVM (RBF),1,missing (imputed),AP5,0.7347792153990694
+SVM (RBF),1,-100 dBm,AP5,0.3408910676951914
+SVM (RBF),1,retrained without,AP5,0.9530372028403828
+SVM (RBF),1,missing (imputed),AP6,0.9657360665835222
+SVM (RBF),1,-100 dBm,AP6,0.9687071466673963
+SVM (RBF),1,retrained without,AP6,0.978197886721156
+SVM (RBF),1,missing (imputed),AP7,0.9750784465497954
+SVM (RBF),1,-100 dBm,AP7,0.9751126114988304
+SVM (RBF),1,retrained without,AP7,0.9781924254112172
+SVM (RBF),2,clean,,0.984354115889614
+SVM (RBF),2,noise 2 dBm,,0.9657196307943163
+SVM (RBF),2,noise 5 dBm,,0.8513242691604479
+SVM (RBF),2,missing (imputed),AP1,0.9283253189068708
+SVM (RBF),2,-100 dBm,AP1,0.5452205236338077
+SVM (RBF),2,retrained without,AP1,0.9625187995624829
+SVM (RBF),2,missing (imputed),AP2,0.9812105697488183
+SVM (RBF),2,-100 dBm,AP2,0.1
+SVM (RBF),2,retrained without,AP2,0.984354115889614
+SVM (RBF),2,missing (imputed),AP3,0.9812492675495137
+SVM (RBF),2,-100 dBm,AP3,0.1
+SVM (RBF),2,retrained without,AP3,0.9780659156607681
+SVM (RBF),2,missing (imputed),AP4,0.9567887170995516
+SVM (RBF),2,-100 dBm,AP4,0.567164806050187
+SVM (RBF),2,retrained without,AP4,0.9781437995624829
+SVM (RBF),2,missing (imputed),AP5,0.7500167824182994
+SVM (RBF),2,-100 dBm,AP5,0.3318885333730188
+SVM (RBF),2,retrained without,AP5,0.9406129107889492
+SVM (RBF),2,missing (imputed),AP6,0.9781008846226238
+SVM (RBF),2,-100 dBm,AP6,0.959940858934667
+SVM (RBF),2,retrained without,AP6,0.9780956240345411
+SVM (RBF),2,missing (imputed),AP7,0.9749611037011278
+SVM (RBF),2,-100 dBm,AP7,0.9566754029103426
+SVM (RBF),2,retrained without,AP7,0.9812363473764972
+SVM (RBF),3,clean,,0.9657353652636671
+SVM (RBF),3,noise 2 dBm,,0.9657353652636671
+SVM (RBF),3,noise 5 dBm,,0.8621060304489836
+SVM (RBF),3,missing (imputed),AP1,0.9380950473367251
+SVM (RBF),3,-100 dBm,AP1,0.5397681660290607
+SVM (RBF),3,retrained without,AP1,0.956662855077673
+SVM (RBF),3,missing (imputed),AP2,0.9626135569531796
+SVM (RBF),3,-100 dBm,AP2,0.1
+SVM (RBF),3,retrained without,AP2,0.9687304565353345
+SVM (RBF),3,missing (imputed),AP3,0.9627375128557072
+SVM (RBF),3,-100 dBm,AP3,0.1
+SVM (RBF),3,retrained without,AP3,0.9718651088273221
+SVM (RBF),3,missing (imputed),AP4,0.9504519158065028
+SVM (RBF),3,-100 dBm,AP4,0.5680752182059132
+SVM (RBF),3,retrained without,AP4,0.9597740402401891
+SVM (RBF),3,missing (imputed),AP5,0.7008219564062507
+SVM (RBF),3,-100 dBm,AP5,0.3289930555555556
+SVM (RBF),3,retrained without,AP5,0.9470294407967448
+SVM (RBF),3,missing (imputed),AP6,0.9719707964990983
+SVM (RBF),3,-100 dBm,AP6,0.9594713126031921
+SVM (RBF),3,retrained without,AP6,0.9719707964990983
+SVM (RBF),3,missing (imputed),AP7,0.9627609186673678
+SVM (RBF),3,-100 dBm,AP7,0.9155835432880806
+SVM (RBF),3,retrained without,AP7,0.9719525176764717
+SVM (RBF),4,clean,,0.993749877924919
+SVM (RBF),4,noise 2 dBm,,0.9843345930337066
+SVM (RBF),4,noise 5 dBm,,0.8582034247010473
+SVM (RBF),4,missing (imputed),AP1,0.9338574477990411
+SVM (RBF),4,-100 dBm,AP1,0.5479706367005726
+SVM (RBF),4,retrained without,AP1,0.9781421845946909
+SVM (RBF),4,missing (imputed),AP2,0.990624262913751
+SVM (RBF),4,-100 dBm,AP2,0.1
+SVM (RBF),4,retrained without,AP2,0.990624262913751
+SVM (RBF),4,missing (imputed),AP3,0.9906051017617876
+SVM (RBF),4,-100 dBm,AP3,0.1
+SVM (RBF),4,retrained without,AP3,0.9906051017617876
+SVM (RBF),4,missing (imputed),AP4,0.9562557704453464
+SVM (RBF),4,-100 dBm,AP4,0.5556155654363661
+SVM (RBF),4,retrained without,AP4,0.9813182800512479
+SVM (RBF),4,missing (imputed),AP5,0.7147753680011744
+SVM (RBF),4,-100 dBm,AP5,0.34851390220517736
+SVM (RBF),4,retrained without,AP5,0.9595533384518408
+SVM (RBF),4,missing (imputed),AP6,0.984368236902246
+SVM (RBF),4,-100 dBm,AP6,0.9812865047416091
+SVM (RBF),4,retrained without,AP6,0.993749877924919
+SVM (RBF),4,missing (imputed),AP7,0.984368236902246
+SVM (RBF),4,-100 dBm,AP7,0.9749896722684854
+SVM (RBF),4,retrained without,AP7,0.990624262913751
+Decision Tree,0,clean,,0.9875192878628072
+Decision Tree,0,noise 2 dBm,,0.9625
+Decision Tree,0,noise 5 dBm,,0.8010808712796208
+Decision Tree,0,missing (imputed),AP1,0.6349556778698495
+Decision Tree,0,-100 dBm,AP1,0.6349556778698495
+Decision Tree,0,retrained without,AP1,0.9270797471924479
+Decision Tree,0,missing (imputed),AP2,0.9906442878628072
+Decision Tree,0,-100 dBm,AP2,0.9719657641262784
+Decision Tree,0,retrained without,AP2,0.9875192878628072
+Decision Tree,0,missing (imputed),AP3,0.9593287000334725
+Decision Tree,0,-100 dBm,AP3,0.9875192878628072
+Decision Tree,0,retrained without,AP3,0.9812652904134571
+Decision Tree,0,missing (imputed),AP4,0.666837985119016
+Decision Tree,0,-100 dBm,AP4,0.666837985119016
+Decision Tree,0,retrained without,AP4,0.9687656682939703
+Decision Tree,0,missing (imputed),AP5,0.8489068519212714
+Decision Tree,0,-100 dBm,AP5,0.8168195311158057
+Decision Tree,0,retrained without,AP5,0.9499492327713186
+Decision Tree,0,missing (imputed),AP6,0.9844136978006954
+Decision Tree,0,-100 dBm,AP6,0.9844136978006954
+Decision Tree,0,retrained without,AP6,0.9781047355365444
+Decision Tree,0,missing (imputed),AP7,0.9843549796867064
+Decision Tree,0,-100 dBm,AP7,0.9875192878628072
+Decision Tree,0,retrained without,AP7,0.9875
+Decision Tree,1,clean,,0.9781617535275337
+Decision Tree,1,noise 2 dBm,,0.950134208121691
+Decision Tree,1,noise 5 dBm,,0.8226396115771712
+Decision Tree,1,missing (imputed),AP1,0.6449166775253732
+Decision Tree,1,-100 dBm,AP1,0.6354441545076996
+Decision Tree,1,retrained without,AP1,0.9407165337648145
+Decision Tree,1,missing (imputed),AP2,0.9781617535275337
+Decision Tree,1,-100 dBm,AP2,0.9781617535275337
+Decision Tree,1,retrained without,AP2,0.9750527808018243
+Decision Tree,1,missing (imputed),AP3,0.9718731687593208
+Decision Tree,1,-100 dBm,AP3,0.7096885145052784
+Decision Tree,1,retrained without,AP3,0.9688250896242852
+Decision Tree,1,missing (imputed),AP4,0.6663895029064362
+Decision Tree,1,-100 dBm,AP4,0.6663895029064362
+Decision Tree,1,retrained without,AP4,0.9561146146827377
+Decision Tree,1,missing (imputed),AP5,0.6388813448324016
+Decision Tree,1,-100 dBm,AP5,0.5674887112335331
+Decision Tree,1,retrained without,AP5,0.9123610682309355
+Decision Tree,1,missing (imputed),AP6,0.9781617535275337
+Decision Tree,1,-100 dBm,AP6,0.9341149364081727
+Decision Tree,1,retrained without,AP6,0.9812686728516393
+Decision Tree,1,missing (imputed),AP7,0.9719306796863969
+Decision Tree,1,-100 dBm,AP7,0.9625818159048891
+Decision Tree,1,retrained without,AP7,0.9688257715500422
+Decision Tree,2,clean,,0.965273170719641
+Decision Tree,2,noise 2 dBm,,0.9120416504064303
+Decision Tree,2,noise 5 dBm,,0.805705703834654
+Decision Tree,2,missing (imputed),AP1,0.6163719172379261
+Decision Tree,2,-100 dBm,AP1,0.6163719172379261
+Decision Tree,2,retrained without,AP1,0.9525716842463674
+Decision Tree,2,missing (imputed),AP2,0.965273170719641
+Decision Tree,2,-100 dBm,AP2,0.9588750527114738
+Decision Tree,2,retrained without,AP2,0.9590492706434735
+Decision Tree,2,missing (imputed),AP3,0.9653111585099183
+Decision Tree,2,-100 dBm,AP3,0.9524920467634158
+Decision Tree,2,retrained without,AP3,0.9653111585099183
+Decision Tree,2,missing (imputed),AP4,0.6675389006775724
+Decision Tree,2,-100 dBm,AP4,0.6698021403801044
+Decision Tree,2,retrained without,AP4,0.9654225014005315
+Decision Tree,2,missing (imputed),AP5,0.7856596106596108
+Decision Tree,2,-100 dBm,AP5,0.5450474450474451
+Decision Tree,2,retrained without,AP5,0.9187476839358923
+Decision Tree,2,missing (imputed),AP6,0.965273170719641
+Decision Tree,2,-100 dBm,AP6,0.965273170719641
+Decision Tree,2,retrained without,AP6,0.9653448616489787
+Decision Tree,2,missing (imputed),AP7,0.9716545750247749
+Decision Tree,2,-100 dBm,AP7,0.9685489849626631
+Decision Tree,2,retrained without,AP7,0.9622225000474793
+Decision Tree,3,clean,,0.9750960866526905
+Decision Tree,3,noise 2 dBm,,0.9371448627830425
+Decision Tree,3,noise 5 dBm,,0.8237309025840659
+Decision Tree,3,missing (imputed),AP1,0.6437487633139807
+Decision Tree,3,-100 dBm,AP1,0.6437487633139807
+Decision Tree,3,retrained without,AP1,0.9472017044515426
+Decision Tree,3,missing (imputed),AP2,0.9719180751148062
+Decision Tree,3,-100 dBm,AP2,0.971968206196705
+Decision Tree,3,retrained without,AP2,0.9689232471465177
+Decision Tree,3,missing (imputed),AP3,0.9750332487888551
+Decision Tree,3,-100 dBm,AP3,0.7789454439081469
+Decision Tree,3,retrained without,AP3,0.975075704635453
+Decision Tree,3,missing (imputed),AP4,0.6731349891114402
+Decision Tree,3,-100 dBm,AP4,0.6717758854235496
+Decision Tree,3,retrained without,AP4,0.9595492011406694
+Decision Tree,3,missing (imputed),AP5,0.8131073660852934
+Decision Tree,3,-100 dBm,AP5,0.7871043201852804
+Decision Tree,3,retrained without,AP5,0.9405320880428245
+Decision Tree,3,missing (imputed),AP6,0.9689232471465177
+Decision Tree,3,-100 dBm,AP6,0.9720106254150553
+Decision Tree,3,retrained without,AP6,0.9563663375522482
+Decision Tree,3,missing (imputed),AP7,0.9720106254150553
+Decision Tree,3,-100 dBm,AP7,0.9565402393317828
+Decision Tree,3,retrained without,AP7,0.9719525176764718
+Decision Tree,4,clean,,0.9781241454744326
+Decision Tree,4,noise 2 dBm,,0.9436808405655249
+Decision Tree,4,noise 5 dBm,,0.8082472165083097
+Decision Tree,4,missing (imputed),AP1,0.6430498494617037
+Decision Tree,4,-100 dBm,AP1,0.6430498494617037
+Decision Tree,4,retrained without,AP1,0.9686303523988122
+Decision Tree,4,missing (imputed),AP2,0.974996093139553
+Decision Tree,4,-100 dBm,AP2,0.9656236571741084
+Decision Tree,4,retrained without,AP2,0.9875
+Decision Tree,4,missing (imputed),AP3,0.9687451164244413
+Decision Tree,4,-100 dBm,AP3,0.9687451164244413
+Decision Tree,4,retrained without,AP3,0.9718739013242705
+Decision Tree,4,missing (imputed),AP4,0.6720639475302316
+Decision Tree,4,-100 dBm,AP4,0.6691017279698703
+Decision Tree,4,retrained without,AP4,0.9750643713583148
+Decision Tree,4,missing (imputed),AP5,0.8260404805348626
+Decision Tree,4,-100 dBm,AP5,0.7364018938178781
+Decision Tree,4,retrained without,AP5,0.9409982025831902
+Decision Tree,4,missing (imputed),AP6,0.978117306865695
+Decision Tree,4,-100 dBm,AP6,0.978117306865695
+Decision Tree,4,retrained without,AP6,0.9874980465697765
+Decision Tree,4,missing (imputed),AP7,0.9874980465697765
+Decision Tree,4,-100 dBm,AP7,0.9623529411764706
+Decision Tree,4,retrained without,AP7,0.9906246337747568
+Random Forest,0,clean,,0.993749877924919
+Random Forest,0,noise 2 dBm,,0.9718746337747567
+Random Forest,0,noise 5 dBm,,0.8402690524062385
+Random Forest,0,missing (imputed),AP1,0.8584074254854347
+Random Forest,0,-100 dBm,AP1,0.6656239101516128
+Random Forest,0,retrained without,AP1,0.9650279968392171
+Random Forest,0,missing (imputed),AP2,0.9874802238368686
+Random Forest,0,-100 dBm,AP2,0.9874802238368686
+Random Forest,0,retrained without,AP2,0.9874992629137511
+Random Forest,0,missing (imputed),AP3,0.9874802238368686
+Random Forest,0,-100 dBm,AP3,0.9874802238368685
+Random Forest,0,retrained without,AP3,0.990624262913751
+Random Forest,0,missing (imputed),AP4,0.9689915688221664
+Random Forest,0,-100 dBm,AP4,0.7805783082816397
+Random Forest,0,retrained without,AP4,0.9875376035318018
+Random Forest,0,missing (imputed),AP5,0.6492329549989624
+Random Forest,0,-100 dBm,AP5,0.5763361562462013
+Random Forest,0,retrained without,AP5,0.9657162540808729
+Random Forest,0,missing (imputed),AP6,0.984372295399077
+Random Forest,0,-100 dBm,AP6,0.987497295399077
+Random Forest,0,retrained without,AP6,0.9874992629137511
+Random Forest,0,missing (imputed),AP7,0.984372295399077
+Random Forest,0,-100 dBm,AP7,0.987497295399077
+Random Forest,0,retrained without,AP7,0.993749877924919
+Random Forest,1,clean,,0.9843707262273289
+Random Forest,1,noise 2 dBm,,0.9564775746210346
+Random Forest,1,noise 5 dBm,,0.884363438977245
+Random Forest,1,missing (imputed),AP1,0.8371749898950717
+Random Forest,1,-100 dBm,AP1,0.6204315837176445
+Random Forest,1,retrained without,AP1,0.9535772138529721
+Random Forest,1,missing (imputed),AP2,0.9843707262273289
+Random Forest,1,-100 dBm,AP2,0.9843707262273289
+Random Forest,1,retrained without,AP2,0.9843707262273289
+Random Forest,1,missing (imputed),AP3,0.9812470698546647
+Random Forest,1,-100 dBm,AP3,0.9529200968221236
+Random Forest,1,retrained without,AP3,0.9812470698546647
+Random Forest,1,missing (imputed),AP4,0.9657101761670936
+Random Forest,1,-100 dBm,AP4,0.9147187798237227
+Random Forest,1,retrained without,AP4,0.9812475808239838
+Random Forest,1,missing (imputed),AP5,0.6467937834661095
+Random Forest,1,-100 dBm,AP5,0.6010929736246192
+Random Forest,1,retrained without,AP5,0.9500474971250132
+Random Forest,1,missing (imputed),AP6,0.9843707262273289
+Random Forest,1,-100 dBm,AP6,0.9843707262273289
+Random Forest,1,retrained without,AP6,0.9812470698546647
+Random Forest,1,missing (imputed),AP7,0.9843707262273289
+Random Forest,1,-100 dBm,AP7,0.981302426905503
+Random Forest,1,retrained without,AP7,0.9843707262273289
+Random Forest,2,clean,,0.9843725350279398
+Random Forest,2,noise 2 dBm,,0.9438206582551993
+Random Forest,2,noise 5 dBm,,0.8359906743883647
+Random Forest,2,missing (imputed),AP1,0.8639029551203959
+Random Forest,2,-100 dBm,AP1,0.5706987042994071
+Random Forest,2,retrained without,AP1,0.9621548607055854
+Random Forest,2,missing (imputed),AP2,0.9843725350279398
+Random Forest,2,-100 dBm,AP2,0.9843725350279398
+Random Forest,2,retrained without,AP2,0.9780456557186117
+Random Forest,2,missing (imputed),AP3,0.9780456557186117
+Random Forest,2,-100 dBm,AP3,0.9621891583273696
+Random Forest,2,retrained without,AP3,0.9685880444673023
+Random Forest,2,missing (imputed),AP4,0.9750864254135749
+Random Forest,2,-100 dBm,AP4,0.9270208910463187
+Random Forest,2,retrained without,AP4,0.9812094663228629
+Random Forest,2,missing (imputed),AP5,0.655840007531589
+Random Forest,2,-100 dBm,AP5,0.5414084629075022
+Random Forest,2,retrained without,AP5,0.9408070986884088
+Random Forest,2,missing (imputed),AP6,0.9843725350279398
+Random Forest,2,-100 dBm,AP6,0.9843725350279398
+Random Forest,2,retrained without,AP6,0.9780456557186117
+Random Forest,2,missing (imputed),AP7,0.9812440645773979
+Random Forest,2,-100 dBm,AP7,0.9812440645773979
+Random Forest,2,retrained without,AP7,0.9780822315900318
+Random Forest,3,clean,,0.98125
+Random Forest,3,noise 2 dBm,,0.9627694421959279
+Random Forest,3,noise 5 dBm,,0.8347965022710632
+Random Forest,3,missing (imputed),AP1,0.8554359545294737
+Random Forest,3,-100 dBm,AP1,0.7517598181568521
+Random Forest,3,retrained without,AP1,0.9624002062551253
+Random Forest,3,missing (imputed),AP2,0.9781241454744326
+Random Forest,3,-100 dBm,AP2,0.9781241454744326
+Random Forest,3,retrained without,AP2,0.98125
+Random Forest,3,missing (imputed),AP3,0.978124877924919
+Random Forest,3,-100 dBm,AP3,0.9529310947947591
+Random Forest,3,retrained without,AP3,0.9781241454744326
+Random Forest,3,missing (imputed),AP4,0.9470395246706278
+Random Forest,3,-100 dBm,AP4,0.8402529388157562
+Random Forest,3,retrained without,AP4,0.975075704635453
+Random Forest,3,missing (imputed),AP5,0.6249042642020097
+Random Forest,3,-100 dBm,AP5,0.5726040101762553
+Random Forest,3,retrained without,AP5,0.953160211978545
+Random Forest,3,missing (imputed),AP6,0.981223595681427
+Random Forest,3,-100 dBm,AP6,0.9843695049040678
+Random Forest,3,retrained without,AP6,0.9875
+Random Forest,3,missing (imputed),AP7,0.9812470698546648
+Random Forest,3,-100 dBm,AP7,0.978117306865695
+Random Forest,3,retrained without,AP7,0.9781241454744326
+Random Forest,4,clean,,0.996874877924919
+Random Forest,4,noise 2 dBm,,0.9718153052853628
+Random Forest,4,noise 5 dBm,,0.8506517454759357
+Random Forest,4,missing (imputed),AP1,0.8377453798330778
+Random Forest,4,-100 dBm,AP1,0.607914740467252
+Random Forest,4,retrained without,AP1,0.9812087151521635
+Random Forest,4,missing (imputed),AP2,0.993749877924919
+Random Forest,4,-100 dBm,AP2,0.996874877924919
+Random Forest,4,retrained without,AP2,0.993749877924919
+Random Forest,4,missing (imputed),AP3,0.9874597059517257
+Random Forest,4,-100 dBm,AP3,0.9874597059517257
+Random Forest,4,retrained without,AP3,0.990624262913751
+Random Forest,4,missing (imputed),AP4,0.9623437703064885
+Random Forest,4,-100 dBm,AP4,0.946383712905452
+Random Forest,4,retrained without,AP4,0.990624262913751
+Random Forest,4,missing (imputed),AP5,0.6494504732332448
+Random Forest,4,-100 dBm,AP5,0.6311440840426348
+Random Forest,4,retrained without,AP5,0.9657407225410803
+Random Forest,4,missing (imputed),AP6,0.987497295399077
+Random Forest,4,-100 dBm,AP6,0.987497295399077
+Random Forest,4,retrained without,AP6,0.993749877924919
+Random Forest,4,missing (imputed),AP7,0.993749877924919
+Random Forest,4,-100 dBm,AP7,0.990624262913751
+Random Forest,4,retrained without,AP7,0.9968748779249189

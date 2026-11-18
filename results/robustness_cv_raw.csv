@@ -697,7 +697,7 @@ Random Forest,3,-100 dBm,AP7,0.978117306865695
 Random Forest,3,retrained without,AP7,0.9781241454744326
 Random Forest,4,clean,,0.996874877924919
 Random Forest,4,noise 2 dBm,,0.9718153052853628
-Random Forest,4,noise 5 dBm,,0.8506517454759357
+Random Forest,4,noise 5 dBm,,0.8534893482299265
 Random Forest,4,missing (imputed),AP1,0.8377453798330778
 Random Forest,4,-100 dBm,AP1,0.607914740467252
 Random Forest,4,retrained without,AP1,0.9812087151521635
@@ -705,7 +705,7 @@ Random Forest,4,missing (imputed),AP2,0.993749877924919
 Random Forest,4,-100 dBm,AP2,0.996874877924919
 Random Forest,4,retrained without,AP2,0.993749877924919
 Random Forest,4,missing (imputed),AP3,0.9874597059517257
-Random Forest,4,-100 dBm,AP3,0.9874597059517257
+Random Forest,4,-100 dBm,AP3,0.9843125820232808
 Random Forest,4,retrained without,AP3,0.990624262913751
 Random Forest,4,missing (imputed),AP4,0.9623437703064885
 Random Forest,4,-100 dBm,AP4,0.946383712905452

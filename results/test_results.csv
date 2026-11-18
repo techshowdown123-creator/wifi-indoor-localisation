@@ -1,0 +1,7 @@
+model,test macro-F1,test accuracy,noise 2 dBm,noise 5 dBm,AP missing: mean of 7,AP missing: worst
+Dummy (stratified),0.238,0.24,0.238 ± 0.000,0.238 ± 0.000,0.238,AP1: 0.238
+Logistic Regression,0.983,0.982,0.975 ± 0.005,0.891 ± 0.015,0.921,AP5: 0.665
+KNN,0.99,0.99,0.977 ± 0.006,0.891 ± 0.016,0.962,AP5: 0.867
+SVM (RBF),0.98,0.98,0.978 ± 0.005,0.889 ± 0.016,0.940,AP5: 0.724
+Decision Tree,0.973,0.972,0.950 ± 0.011,0.825 ± 0.012,0.857,AP1: 0.653
+Random Forest,0.983,0.982,0.966 ± 0.008,0.856 ± 0.015,0.907,AP5: 0.650

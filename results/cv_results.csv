@@ -1,0 +1,7 @@
+model,owner,best params,CV macro-F1 (tuning),CV accuracy (tuning),Nested-CV macro-F1,Nested-CV accuracy,time (s)
+Dummy (stratified),Harsh Kumar,{'strategy': 'stratified'},0.252 ± 0.021,0.253 ± 0.019,0.254 ± 0.037,0.256 ± 0.035,3.9
+Logistic Regression,Harsh Kumar,{'C': 100},0.983 ± 0.009,0.983 ± 0.009,0.979 ± 0.011,0.979 ± 0.011,0.7
+KNN,Dhruv Rangan,"{'n_neighbors': 5, 'p': 1, 'weights': 'distance'}",0.988 ± 0.004,0.988 ± 0.004,0.984 ± 0.004,0.984 ± 0.004,3.2
+SVM (RBF),Dhruv Rangan,"{'C': 1, 'gamma': 0.1}",0.983 ± 0.012,0.983 ± 0.012,0.981 ± 0.008,0.981 ± 0.008,3.8
+Decision Tree,Harsh Kumar,"{'criterion': 'gini', 'max_depth': None, 'min_samples_leaf': 1}",0.977 ± 0.008,0.977 ± 0.008,0.974 ± 0.007,0.974 ± 0.007,2.7
+Random Forest,Yashveer Singh,"{'max_depth': None, 'max_features': 0.5, 'min_samples_leaf': 1}",0.988 ± 0.007,0.988 ± 0.007,0.981 ± 0.008,0.981 ± 0.008,32.5

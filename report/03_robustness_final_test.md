@@ -1,3 +1,4 @@
+*Yashveer Singh*
 ## **7. Robustness**
 
 We tested how well different machine learning models perform when the Wi-Fi signal becomes weaker or when one access point (router) stops working.
